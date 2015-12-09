@@ -1,1 +1,2 @@
 Setup project in local.
+Setup project in remote.
